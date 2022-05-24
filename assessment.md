@@ -21,3 +21,8 @@ Your group project will be assessed using this rubrics:
 
 |     |     |     |
 | --- | --- | --- |
+
+## Peer and Self Reviews
+
+|     |     |     |
+| --- | --- | --- |
