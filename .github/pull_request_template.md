@@ -1,7 +1,7 @@
 <!--
   make this PR easy to find:
 
-  - assign and add reviewers
+  - assign yourself and add reviewers
   - add any helpful labels
   - connect it to a milestone (if necessary)
   - link it with an issue (if necessary)
